@@ -64,3 +64,7 @@ def ex5_3(): Unit = {
 def ex5_5(): Unit = {
 
 }
+
+class HelloApp extends App {
+  println("hello, world")
+}
